@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indie-Book", "Indie-Book\Indie-Book.csproj", "{D70BAC76-627B-48EB-A4E1-987820BC76ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indie-Book.Tests", "Indie-Book.Tests\Indie-Book.Tests.csproj", "{830C1B17-4AAB-485A-8148-314172FAC3C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B0307D32-B16E-42EE-8C71-E7AA7B6C4F1B}"
+	ProjectSection(SolutionItems) = preProject
+		WebEssentials-Settings.json = WebEssentials-Settings.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70BAC76-627B-48EB-A4E1-987820BC76ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70BAC76-627B-48EB-A4E1-987820BC76ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70BAC76-627B-48EB-A4E1-987820BC76ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70BAC76-627B-48EB-A4E1-987820BC76ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830C1B17-4AAB-485A-8148-314172FAC3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830C1B17-4AAB-485A-8148-314172FAC3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830C1B17-4AAB-485A-8148-314172FAC3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830C1B17-4AAB-485A-8148-314172FAC3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
